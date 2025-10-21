@@ -46,4 +46,4 @@ I'm **Eşref Batuhan Simsar** 👨‍💻
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e%C5%9Fref-batuhan-simsar-828973248/)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batuhansimsarjs@gmail.com)
+batuhansimsarjs@gmail.com
