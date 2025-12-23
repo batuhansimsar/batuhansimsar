@@ -4,7 +4,7 @@ I'm **Eşref Batuhan Simsar** 👨‍💻
 
 ### 🚀 About Me
 - 🔭 Currently focusing on **Full-Stack Web Development** (Frontend + Backend)
-- 🌱 Learning **React, TypeScript, Node.js, Express, TailwindCSS, SQL** and **Docker**
+- 🌱 Learning **React, TypeScript, C#, .Net, TailwindCSS, SQL** and **Docker**
 - 🎯 Goal: Become a **Full-Stack Developer** and work on scalable, real-world web applications
 - 📚 Preparing for **TOEFL (Target: 80+)**
 - ⚡ Fun fact: Coffee ☕ + Lo-fi music 🎵 = Perfect coding combo!
