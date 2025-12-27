@@ -100,32 +100,6 @@ const batuhan: Developer = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<a href="https://github.com/batuhansimsar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=batuhansimsar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhansimsar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</a>
-
-<br/>
-
-<!-- Streak Stats - Using streak-stats.demolab.com (more reliable than herokuapp) -->
-<img src="https://streak-stats.demolab.com/?user=batuhansimsar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=batuhansimsar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
