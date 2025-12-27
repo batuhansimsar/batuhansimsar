@@ -131,29 +131,6 @@ const batuhan: Developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=batuhansimsar&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
 </div>
 
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/batuhansimsar/BudgetManagement">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=batuhansimsar&repo=BudgetManagement&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/batuhansimsar/Bootcamp">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=batuhansimsar&repo=Bootcamp&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/batuhansimsar/ErasmusSchoolProjects">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=batuhansimsar&repo=ErasmusSchoolProjects&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/batuhansimsar/webprojects">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=batuhansimsar&repo=webprojects&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
 
 ---
 
