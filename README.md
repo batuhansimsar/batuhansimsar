@@ -63,7 +63,7 @@ const batuhan: Developer = {
 
 ### 🌐 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind&theme=dark" />
 </p>
 
 ### 🖥️ Backend Development
@@ -89,13 +89,38 @@ const batuhan: Developer = {
 
 <div align="center">
   
-<!-- Flying Bird / Snake Animation Above Contributions -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<a href="https://github.com/batuhansimsar">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=batuhansimsar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=batuhansimsar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
+
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=batuhansimsar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=batuhansimsar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -112,8 +137,20 @@ const batuhan: Developer = {
 
 <div align="center">
 
-<a href="https://github.com/batuhansimsar/pomodoroweb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=batuhansimsar&repo=pomodoroweb&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/batuhansimsar/BudgetManagement">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=batuhansimsar&repo=BudgetManagement&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/batuhansimsar/Bootcamp">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=batuhansimsar&repo=Bootcamp&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/batuhansimsar/ErasmusSchoolProjects">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=batuhansimsar&repo=ErasmusSchoolProjects&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/batuhansimsar/webprojects">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=batuhansimsar&repo=webprojects&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 </div>
