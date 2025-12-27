@@ -1,49 +1,195 @@
-## Hi there 👋
+<div align="center">
 
-I'm **Eşref Batuhan Simsar** 👨‍💻  
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eşref%20Batuhan%20Simsar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Web%20Developer%20|%20Code%20Enthusiast&descAlignY=52&descSize=18" width="100%"/>
 
-### 🚀 About Me
-- 🔭 Currently focusing on **Full-Stack Web Development** (Frontend + Backend)
-- 🌱 Learning **React, TypeScript, C#, .Net, TailwindCSS, SQL** and **Docker**
-- 🎯 Goal: Become a **Full-Stack Developer** and work on scalable, real-world web applications
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+Modern+Web+Applications+%F0%9F%9A%80;React+%7C+TypeScript+%7C+.NET+Developer;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Coffee+%E2%98%95+%2B+Lo-fi+%F0%9F%8E%B5+%3D+Perfect+Code" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=batuhansimsar&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/e%C5%9Fref-batuhan-simsar-828973248/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:batuhansimsarjs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const batuhan: Developer = {
+  name: "Eşref Batuhan Simsar",
+  role: "Full-Stack Web Developer",
+  location: "Türkiye 🇹🇷",
+  currentFocus: ["React", "TypeScript", "C#", ".NET", "Docker"],
+  learning: ["Advanced React Patterns", "Microservices", "Cloud Architecture"],
+  goal: "Building scalable, real-world web applications",
+  funFact: "Coffee ☕ + Lo-fi music 🎵 = Perfect coding combo!",
+  
+  askMeAbout: ["Web Development", "React", ".NET", "Clean Architecture"],
+  
+  dailyRoutine: () => {
+    return ["☕ Coffee", "💻 Code", "🎵 Lo-fi", "🔁 Repeat"];
+  }
+};
+```
+
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+### 🎯 Current Goals
+- 🔭 Focusing on **Full-Stack Web Development**
+- 🌱 Mastering **React, TypeScript, C#, .NET & Docker**
 - 📚 Preparing for **TOEFL (Target: 80+)**
-- ⚡ Fun fact: Coffee ☕ + Lo-fi music 🎵 = Perfect coding combo!
+- 🚀 Building production-ready applications
 
-
----
-
-### 🛠️ Tech Stack
-
-#### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-#### 🖥️ Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-
-
-#### ⚙️ Tools & Others
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br clear="both"/>
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-![Batuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhansimsar&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhansimsar&layout=compact&theme=tokyonight)
+<div align="center">
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind&theme=dark" />
+</p>
+
+### 🖥️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs&theme=dark" />
+</p>
+
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,azure&theme=dark" />
+</p>
+
+### ⚙️ Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux&theme=dark" />
+</p>
+
+</div>
 
 ---
 
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e%C5%9Fref-batuhan-simsar-828973248/)
-batuhansimsarjs@gmail.com
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+<!-- Flying Bird / Snake Animation Above Contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<a href="https://github.com/batuhansimsar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=batuhansimsar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhansimsar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
+
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=batuhansimsar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=batuhansimsar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=batuhansimsar&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/batuhansimsar/pomodoroweb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=batuhansimsar&repo=pomodoroweb&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=6C63FF&bar_color_cover=true" alt="Spotify"/>
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/e%C5%9Fref-batuhan-simsar-828973248/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:batuhansimsarjs@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/batuhansimsar">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+### 💬 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+<p>
+  <b>⭐ From <a href="https://github.com/batuhansimsar">batuhansimsar</a> with 💜</b>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love"/>
+  <img src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee" alt="Coffee"/>
+</p>
+
+</div>
