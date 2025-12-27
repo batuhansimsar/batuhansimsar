@@ -111,8 +111,8 @@ const batuhan: Developer = {
 
 <br/>
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=batuhansimsar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<!-- Streak Stats - Using streak-stats.demolab.com (more reliable than herokuapp) -->
+<img src="https://streak-stats.demolab.com/?user=batuhansimsar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 </div>
 
@@ -142,14 +142,6 @@ const batuhan: Developer = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=batuhansimsar&repo=pomodoroweb&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
-</div>
-
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=6C63FF&bar_color_cover=true" alt="Spotify"/>
 </div>
 
 ---
